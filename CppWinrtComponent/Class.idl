@@ -1,0 +1,9 @@
+namespace CppWinrtComponent
+{
+    [default_interface]
+    runtimeclass Class
+    {
+        Class();
+        String GetModule();
+    }
+}
